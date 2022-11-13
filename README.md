@@ -65,4 +65,4 @@ Here's the system after the implementation
 
 **Rayan Alhamdan**
 ## 
-This a homework we have take it in Formal specification course with **dr.Mohammed Assiri** in 2022.
+This a homework we have taken it in Formal specification course with **dr.Mohammed Assiri** in 2022.
