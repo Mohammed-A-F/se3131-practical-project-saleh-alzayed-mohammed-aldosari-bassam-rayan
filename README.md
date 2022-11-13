@@ -1,5 +1,5 @@
 # Traffic Light 🚦 
-This how we created a traffic light system by using **formal specification's** modelling; Petri net.
+This how we created a traffic light system by using **formal specification's** model; Petri net.
 
 ## Description
 We have a traffic intersection that organizes four different streets, It can be green at a specific time and the rest of the traffic lights are red.
