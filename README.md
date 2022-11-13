@@ -1,4 +1,4 @@
-# Traffic Light system 🚦 
+# Traffic Light System 🚦 
 This how we created a traffic light system by using **formal specification's** model; Petri net.
 
 ## Description
